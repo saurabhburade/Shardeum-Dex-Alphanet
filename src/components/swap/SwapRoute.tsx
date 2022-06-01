@@ -1,7 +1,7 @@
 import { Trade } from '0xshardeum'
 import React, { Fragment, memo, useContext } from 'react'
 import { ChevronRight } from 'react-feather'
-import { Flex } from '@pancakeswap-libs/uikit'
+import { Flex } from '0xshm-uikit-v2'
 import { ThemeContext } from 'styled-components'
 import { TYPE } from '../Shared'
 import CurrencyLogo from '../CurrencyLogo'

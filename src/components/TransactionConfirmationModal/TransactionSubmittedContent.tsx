@@ -1,7 +1,7 @@
 import { ChainId } from '0xshardeum'
 import React, { useContext } from 'react'
 import { ThemeContext } from 'styled-components'
-import { Button, LinkExternal } from '@pancakeswap-libs/uikit'
+import { Button, LinkExternal } from '0xshm-uikit-v2'
 import { ArrowUpCircle } from 'react-feather'
 import { AutoColumn } from '../Column'
 import { getEtherscanLink } from '../../utils'

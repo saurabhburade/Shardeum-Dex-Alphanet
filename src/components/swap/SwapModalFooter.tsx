@@ -1,6 +1,6 @@
 import { Trade, TradeType } from '0xshardeum'
 import React, { useMemo, useState } from 'react'
-import { Text , Button } from '@pancakeswap-libs/uikit'
+import { Text , Button } from '0xshm-uikit-v2'
 import { Repeat } from 'react-feather'
 
 import { Field } from '../../state/swap/actions'

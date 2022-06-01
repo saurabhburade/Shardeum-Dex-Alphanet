@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Text } from '@pancakeswap-libs/uikit'
+import { Text } from '0xshm-uikit-v2'
 
 const Card = styled.div<any>`
   width: 100%;

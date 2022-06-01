@@ -1,6 +1,6 @@
 import { Currency, CurrencyAmount, Fraction, Percent } from '0xshardeum'
 import React from 'react'
-import { Button } from '@pancakeswap-libs/uikit'
+import { Button } from '0xshm-uikit-v2'
 import { RowBetween, RowFixed } from '../../components/Row'
 import CurrencyLogo from '../../components/CurrencyLogo'
 import { Field } from '../../state/mint/actions'
